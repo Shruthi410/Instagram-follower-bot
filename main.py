@@ -5,8 +5,8 @@ from time import sleep
 
 CHROME_DRIVER_PATH = "C:/Development/chromedriver.exe"
 SIMILAR_ACCOUNT = "chefsteps"
-USERNAME = "shruthi41098"
-PASSWORD = "Shruthiinsta123"
+USERNAME = "YOUR INSTAGRAM USERNAME"
+PASSWORD = "YOUR INSTAGRAM PASSWORD"
 
 
 class InstaFollower:
